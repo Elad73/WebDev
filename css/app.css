@@ -1,5 +1,9 @@
 h1 {
 	color: red;
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+	border: 2px dashed yellow;
 }
 
 li {
@@ -7,6 +11,12 @@ li {
 }
 
 h4 {
+	background: rgb(255,100,80);
 	color: purple;
+}
 
+body {
+	background: url(../images/cover_lemonade.png);
+	background-repeat: no-repeat;
+	background-size: cover;
 }
